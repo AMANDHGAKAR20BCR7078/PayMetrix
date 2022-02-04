@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "183825084718",
+    "project_id": "paymetrix-ec1d3",
+    "storage_bucket": "paymetrix-ec1d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183825084718:android:1c2df963eb03330a218abf",
+        "android_client_info": {
+          "package_name": "com.example.paymetrix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183825084718-5kiosmvs6466902nmb4bhv0g1n4dnhgl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRkcTRbzo95zZVEVzYNRx5_oxWklQH4rM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183825084718-5kiosmvs6466902nmb4bhv0g1n4dnhgl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
